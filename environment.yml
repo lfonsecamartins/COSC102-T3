@@ -1,0 +1,14 @@
+name: COSC102
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - notebook
+  - spyder
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn
+  - pyqtwebengine
+prefix: /Users/lucasfonsecamartins/anaconda3/envs/COSC102
